@@ -9,3 +9,4 @@ ASSISTIVE SYSTEM FOR HEMIPLEGIC INDIVIDUALS
         i)On the wheelchair the “Ultrasonic Sensor” is used for the obstacle detection, where the obstacle are detect on certain distance the wheelchair may stop and it has high priority.
         ii)For the fall detection of the wheelchair the “Accelerometer/Gyroscope (IMU)” is used.
 6)For the high emergency the physical button is placed on the wheelchair and near the bed which send a "CRITICAL HELP NEEDED" message to the caretaker immediately.
+
